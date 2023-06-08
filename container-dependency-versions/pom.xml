@@ -458,7 +458,7 @@
     </dependencyManagement>
 
     <properties>
-        <apache.httpclient.version>4.4.1</apache.httpclient.version>
+        <apache.httpclient.version>4.5.13</apache.httpclient.version>
         <apache.httpcore.version>4.4.1</apache.httpcore.version>
         <bouncycastle.version>1.58</bouncycastle.version>
         <felix.version>5.6.10</felix.version>
