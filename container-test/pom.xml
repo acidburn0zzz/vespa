@@ -78,7 +78,7 @@
     <dependency>
       <groupId>commons-beanutils</groupId>
       <artifactId>commons-beanutils</artifactId>
-      <version>1.7.0</version>
+      <version>1.11.0</version>
       <exclusions>
         <exclusion>
           <!-- To avoid pulling in an older version than what we provide (also affects provided scope). -->
